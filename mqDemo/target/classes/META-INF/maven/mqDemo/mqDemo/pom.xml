@@ -59,5 +59,10 @@
 			<artifactId>activemq-all</artifactId>
 			<version>${activemq-all}</version>
 		</dependency>
+		<dependency>
+			<groupId>commons-pool</groupId>
+			<artifactId>commons-pool</artifactId>
+			<version>1.6</version>
+		</dependency>
 	</dependencies>
 </project>
